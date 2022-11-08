@@ -1,0 +1,15 @@
+# Project exclude paths
+/Ch01_Start/bin/
+/Ch02_Variable_Type/bin/
+/Ch03_Operator/bin/
+/Ch04_Repeat_Cond/bin/
+/Ch05_ReferenceType/bin/
+/Ch06_Class/bin/
+/Ch07_Inheritance/bin/
+/Ch08_Interface/bin/
+/Ch09_Nested/bin/
+/Ch10_Exception/bin/
+/Ch11_API/bin/
+/Ch12_Thread/bin/
+/Ch13_Collection/bin/
+/Ch14_IO/bin/

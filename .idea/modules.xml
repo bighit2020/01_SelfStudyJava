@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ch01_Start/Ch01_Start.iml" filepath="$PROJECT_DIR$/Ch01_Start/Ch01_Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02_Variable_Type/Ch02_Variable_Type.iml" filepath="$PROJECT_DIR$/Ch02_Variable_Type/Ch02_Variable_Type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03_Operator/Ch03_Operator.iml" filepath="$PROJECT_DIR$/Ch03_Operator/Ch03_Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch04_Repeat_Cond/Ch04_Repeat_Cond.iml" filepath="$PROJECT_DIR$/Ch04_Repeat_Cond/Ch04_Repeat_Cond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch05_ReferenceType/Ch05_ReferenceType.iml" filepath="$PROJECT_DIR$/Ch05_ReferenceType/Ch05_ReferenceType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch06_Class/Ch06_Class.iml" filepath="$PROJECT_DIR$/Ch06_Class/Ch06_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch07_Inheritance/Ch07_Inheritance.iml" filepath="$PROJECT_DIR$/Ch07_Inheritance/Ch07_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch08_Interface/Ch08_Interface.iml" filepath="$PROJECT_DIR$/Ch08_Interface/Ch08_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch09_Nested/Ch09_Nested.iml" filepath="$PROJECT_DIR$/Ch09_Nested/Ch09_Nested.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch10_Exception/Ch10_Exception.iml" filepath="$PROJECT_DIR$/Ch10_Exception/Ch10_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch11_API/Ch11_API.iml" filepath="$PROJECT_DIR$/Ch11_API/Ch11_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch12_Thread/Ch12_Thread.iml" filepath="$PROJECT_DIR$/Ch12_Thread/Ch12_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch13_Collection/Ch13_Collection.iml" filepath="$PROJECT_DIR$/Ch13_Collection/Ch13_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch14_IO/Ch14_IO.iml" filepath="$PROJECT_DIR$/Ch14_IO/Ch14_IO.iml" />
+    </modules>
+  </component>
+</project>
